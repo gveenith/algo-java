@@ -1,0 +1,165 @@
+2021-02-25 21:13:54,621 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-25 21:15:42,366 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:config-server:0.0.1-SNAPSHOT @ /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/pom.xml.
+2021-02-25 21:15:43,075 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2.pom
+2021-02-25 21:15:43,280 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2.pom
+2021-02-25 21:15:43,354 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config/3.0.2/spring-cloud-config-3.0.2.pom
+2021-02-25 21:15:43,429 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config/3.0.2/spring-cloud-config-3.0.2.pom
+2021-02-25 21:15:43,535 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2.pom
+2021-02-25 21:15:43,594 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2.pom
+2021-02-25 21:15:43,784 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r.pom
+2021-02-25 21:15:43,848 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r.pom
+2021-02-25 21:15:43,900 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit-parent/5.1.3.201810200350-r/org.eclipse.jgit-parent-5.1.3.201810200350-r.pom
+2021-02-25 21:15:43,991 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit-parent/5.1.3.201810200350-r/org.eclipse.jgit-parent-5.1.3.201810200350-r.pom
+2021-02-25 21:15:44,056 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55.pom
+2021-02-25 21:15:44,102 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55.pom
+2021-02-25 21:15:44,163 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2021-02-25 21:15:44,236 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2021-02-25 21:15:44,297 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.pom
+2021-02-25 21:15:44,359 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.pom
+2021-02-25 21:15:44,416 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.pom
+2021-02-25 21:15:44,488 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.pom
+2021-02-25 21:15:44,561 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2021-02-25 21:15:44,620 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2021-02-25 21:15:44,697 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r.pom
+2021-02-25 21:15:44,768 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r.pom
+2021-02-25 21:15:44,840 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4.pom
+2021-02-25 21:15:44,959 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4.pom
+2021-02-25 21:15:45,032 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.11.4/jackson-dataformats-text-2.11.4.pom
+2021-02-25 21:15:45,103 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.11.4/jackson-dataformats-text-2.11.4.pom
+2021-02-25 21:15:45,423 [AetherRepositoryConnector-repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2.jar
+2021-02-25 21:15:45,565 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.jar
+2021-02-25 21:15:45,565 [AetherRepositoryConnector-repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar
+2021-02-25 21:15:45,565 [AetherRepositoryConnector-repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2.jar
+2021-02-25 21:15:45,565 [AetherRepositoryConnector-repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r.jar
+2021-02-25 21:15:46,234 [AetherRepositoryConnector-repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2.jar
+2021-02-25 21:15:46,305 [AetherRepositoryConnector-repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar
+2021-02-25 21:15:46,408 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.jar
+2021-02-25 21:15:46,471 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r.jar
+2021-02-25 21:15:46,656 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r.jar
+2021-02-25 21:15:46,798 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4.jar
+2021-02-25 21:15:46,810 [AetherRepositoryConnector-repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2.jar
+2021-02-25 21:15:46,919 [AetherRepositoryConnector-repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar
+2021-02-25 21:15:46,968 [AetherRepositoryConnector-repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar
+2021-02-25 21:15:47,078 [AetherRepositoryConnector-repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4.jar
+2021-02-25 21:15:48,664 [AetherRepositoryConnector-repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r.jar
+2021-02-25 21:15:49,313 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/main/java
+2021-02-25 21:15:49,313 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2021-02-25 21:15:49,316 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2021-02-25 21:15:49,321 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/test/java
+2021-02-25 21:15:50,181 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2021-02-25 21:15:50,184 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-02-25 21:15:50,470 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:config-server:0.0.1-SNAPSHOT @ /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/pom.xml.
+2021-02-25 21:15:50,631 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2-sources.jar
+2021-02-25 21:15:50,967 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/main/java
+2021-02-25 21:15:50,967 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2021-02-25 21:15:50,967 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2021-02-25 21:15:50,967 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/test/java
+2021-02-25 21:15:50,987 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-server/3.0.2/spring-cloud-config-server-3.0.2-sources.jar
+2021-02-25 21:15:50,988 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-server:3.0.2
+2021-02-25 21:15:51,464 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2-sources.jar
+2021-02-25 21:15:51,674 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-02-25 21:15:51,984 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-config-client/3.0.2/spring-cloud-config-client-3.0.2-sources.jar
+2021-02-25 21:15:51,987 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:3.0.2
+2021-02-25 21:15:52,000 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:15:52,000 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:15:52,004 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 21:15:52,014 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:15:52,016 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:15:52,016 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:15:52,017 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:15:52,305 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r-sources.jar
+2021-02-25 21:15:56,315 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.1.3.201810200350-r/org.eclipse.jgit-5.1.3.201810200350-r-sources.jar
+2021-02-25 21:15:56,316 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit:5.1.3.201810200350-r
+2021-02-25 21:15:56,480 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55-sources.jar
+2021-02-25 21:15:56,873 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.55/jsch-0.1.55-sources.jar
+2021-02-25 21:15:56,875 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jsch:0.1.55
+2021-02-25 21:15:57,052 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1-sources.jar
+2021-02-25 21:15:57,166 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/jcraft/jzlib/1.1.1/jzlib-1.1.1-sources.jar
+2021-02-25 21:15:57,169 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jzlib:1.1.1
+2021-02-25 21:15:57,368 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6-sources.jar
+2021-02-25 21:15:57,556 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6-sources.jar
+2021-02-25 21:15:57,558 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.javaewah:JavaEWAH:1.1.6
+2021-02-25 21:15:57,702 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r-sources.jar
+2021-02-25 21:15:57,768 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit.http.apache/5.1.3.201810200350-r/org.eclipse.jgit.http.apache-5.1.3.201810200350-r-sources.jar
+2021-02-25 21:15:57,770 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit.http.apache:5.1.3.201810200350-r
+2021-02-25 21:15:57,935 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4-sources.jar
+2021-02-25 21:15:58,030 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.4/jackson-dataformat-yaml-2.11.4-sources.jar
+2021-02-25 21:15:58,031 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4
+2021-02-25 21:15:58,033 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-server:3.0.2
+2021-02-25 21:15:58,035 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:3.0.2
+2021-02-25 21:15:58,036 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit:5.1.3.201810200350-r
+2021-02-25 21:15:58,038 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jsch:0.1.55
+2021-02-25 21:15:58,039 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jzlib:1.1.1
+2021-02-25 21:15:58,041 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.javaewah:JavaEWAH:1.1.6
+2021-02-25 21:15:58,043 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit.http.apache:5.1.3.201810200350-r
+2021-02-25 21:15:58,044 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4
+2021-02-25 21:15:58,046 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-server:3.0.2
+2021-02-25 21:15:58,048 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:3.0.2
+2021-02-25 21:15:58,049 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit:5.1.3.201810200350-r
+2021-02-25 21:15:58,050 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jsch:0.1.55
+2021-02-25 21:15:58,052 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jzlib:1.1.1
+2021-02-25 21:15:58,053 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.javaewah:JavaEWAH:1.1.6
+2021-02-25 21:15:58,054 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit.http.apache:5.1.3.201810200350-r
+2021-02-25 21:15:58,055 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4
+2021-02-25 21:15:58,057 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:3.0.2
+2021-02-25 21:15:58,058 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit:5.1.3.201810200350-r
+2021-02-25 21:15:58,060 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jsch:0.1.55
+2021-02-25 21:15:58,061 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jcraft:jzlib:1.1.1
+2021-02-25 21:15:58,062 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.javaewah:JavaEWAH:1.1.6
+2021-02-25 21:15:58,063 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jgit:org.eclipse.jgit.http.apache:5.1.3.201810200350-r
+2021-02-25 21:15:58,065 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4
+2021-02-25 21:15:58,314 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:15:58,314 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:15:58,315 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:15:58,315 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:15:58,316 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:15:58,316 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:15:58,316 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:16:19,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:16:19,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:16:19,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:16:19,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:16:19,186 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:16:19,187 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:16:19,187 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:17:05,060 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:17:05,061 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:17:05,063 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 21:17:05,068 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:17:05,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:17:05,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:17:05,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:17:19,566 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:17:19,566 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:17:19,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 21:17:19,569 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:17:19,571 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:17:19,571 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:17:19,571 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:18:35,005 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:18:35,005 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:18:35,005 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 21:18:35,016 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:18:35,016 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:18:35,017 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:18:43,416 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:18:43,417 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:18:43,417 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-02-25 21:18:43,420 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:18:43,422 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:18:43,422 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:18:43,423 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 21:20:56,986 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:20:56,986 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:20:56,987 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 21:20:56,998 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 21:20:57,002 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:20:57,002 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 21:20:57,002 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources
+2021-02-25 22:12:52,878 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 22:12:52,878 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 22:12:52,879 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-25 22:12:52,942 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-25 22:12:52,943 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 22:12:52,943 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-25 22:12:52,943 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vgovindarajalu/Desktop/git/java/SampleProjects/ConfigServer/config-server/src/test/resources

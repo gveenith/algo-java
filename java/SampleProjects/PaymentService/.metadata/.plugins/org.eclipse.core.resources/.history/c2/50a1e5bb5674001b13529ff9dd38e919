@@ -1,0 +1,10 @@
+package com.example.paymentservice.dao;
+
+import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
+
+import com.example.paymentservice.entity.Payment;
+
+public interface PaymentRepository extends SimpleJpaRepository<Payment,Integer>{
+	
+
+}

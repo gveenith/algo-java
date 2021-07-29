@@ -1,0 +1,17 @@
+package com.example.orderservice.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.example.orderservice.entity.Order;
+
+@Repository
+public class SaveOrder {
+
+	@Autowired
+	private OrderRepository repository;
+	
+	public Order saveOrder(Order order) {
+		return repository.save(order);
+	}
+}

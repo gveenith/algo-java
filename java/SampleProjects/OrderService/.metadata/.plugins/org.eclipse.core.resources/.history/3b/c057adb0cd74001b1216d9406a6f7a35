@@ -1,0 +1,30 @@
+package com.example.orderservice.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+import com.example.orderservice.dto.Payment;
+import com.example.orderservice.dto.TransactionPayload;
+import com.example.orderservice.entity.Order;
+import com.example.orderservice.service.OrderBook;
+
+@RestController
+ class OrderController {
+	
+	@Autowired
+	private OrderBook orderBook;
+
+	
+	@RequestMapping("/orders")
+	public TransactionPayload bookOrder(@RequestBody TransactionPayload transactionRequest) {
+	
+		return orderBook.saveOrder(order);
+	}
+	
+	 
+	
+
+}

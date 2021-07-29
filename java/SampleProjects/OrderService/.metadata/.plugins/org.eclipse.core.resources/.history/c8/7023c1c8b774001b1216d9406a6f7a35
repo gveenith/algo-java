@@ -1,0 +1,34 @@
+package com.example.orderservice.entity;
+
+import javax.persistence.Entity;
+
+@Entity
+public class TransactionRequest {
+	
+	private Order order;
+	
+	
+	
+	public TransactionRequest() {
+		super();
+	}
+
+
+
+	public TransactionRequest(Order order) {
+		super();
+		this.order = order;
+	}
+	
+	
+
+	public Order getOrder() {
+		return order;
+	}
+
+	public void setOrder(Order order) {
+		this.order = order;
+	}
+
+
+}
